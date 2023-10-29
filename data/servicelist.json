@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Career Conselling",
+        "description": "Career Conselling",
+        "completed": false
+    },
+    {
+        "title": "Carrer Guidence",
+        "description": "Carrer Guidence",
+        "completed": false
+    },
+    {
+        "title": "Learning material",
+        "description": "Learning material & resources",
+        "completed": false
+    },
+    {
+        "title": "Up-skill planning",
+        "description": "Up-skill planning",
+        "completed": false
+    }
+]

@@ -1,0 +1,14 @@
+Structure help 
+https://nextjs.org/docs/getting-started/project-structure
+
+Test urls
+Reference : -https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes
+http://localhost:8000/
+http://localhost:8000/home
+http://localhost:8000/info
+http://localhost:8000/uitest
+http://localhost:8000/click
+http://localhost:8000/service/a
+http://localhost:8000/service/b
+http://localhost:8000/shop/a
+http://localhost:8000/shop/a/b/c
